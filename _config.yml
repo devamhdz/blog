@@ -30,7 +30,7 @@ twitter_username: devamhdz
 github_username:  devamhdz
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
